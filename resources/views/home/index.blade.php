@@ -2,6 +2,7 @@
 
 @section('title', 'Home - News Aggregator')
 
+
 @section('content')
 <div class="container">
     <h2>Latest News</h2>
